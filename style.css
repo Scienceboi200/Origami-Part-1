@@ -1,0 +1,12 @@
+li{
+    color:brown
+}
+h1{
+    color:brown;
+    border: 10px solid gray;
+    background-color: gray
+}
+img{
+    border:5px solid black;
+    border-radius:40px
+}
